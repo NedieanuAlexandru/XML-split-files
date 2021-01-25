@@ -1,2 +1,6 @@
 # XML-split-files
-XML sorter
+Libraries:
+- Java XPath 
+- DOM
+
+The steps are explained thru the code with comments in Application.
