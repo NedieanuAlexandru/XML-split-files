@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<products>
+    <product>
+        <description>Apple iPad 2 with Wi-Fi 16GB - iOS 5 - Black</description>
+        <gtin>00885909464517</gtin>
+        <price currency="USD">399.0</price>
+        <orderid>2343</orderid>
+    </product>
+    <product>
+        <description>Apple MacBook Air A 11.6" Mac OS X v10.7 Lion MacBook</description>
+        <gtin>00885909464043</gtin>
+        <price currency="USD">1149.0</price>
+        <orderid>2344</orderid>
+    </product>
+</products>

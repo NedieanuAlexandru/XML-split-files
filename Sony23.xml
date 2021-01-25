@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<products>
+    <product>
+        <description>Sony 54.6" (Diag) Xbr Hx929 Internet Tv</description>
+        <gtin>00027242816657</gtin>
+        <price currency="USD">2999.99</price>
+        <orderid>2343</orderid>
+    </product>
+    <product>
+        <description>Sony NWZ-E464 8GB E Series Walkman Video MP3 Player Blue</description>
+        <gtin>00027242831438</gtin>
+        <price currency="USD">91.99</price>
+        <orderid>2343</orderid>
+    </product>
+</products>
